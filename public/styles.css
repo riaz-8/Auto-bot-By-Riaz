@@ -1,10 +1,10 @@
 body {
      padding: 20px;
-     background: <img src="logo.jpeg">;
+     background: <img src="background.jpeg">;
      font-family: 'Poppins', sans-serif;
 }
  .container {
-     background-color: White;
+     background-color: lightblue;
      border-radius: 10px;
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
      padding: 20px;
